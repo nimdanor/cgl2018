@@ -22,5 +22,6 @@ Quelles sont les données que fournis l'acteur au système.
 Quelles sont les données que le système fournis à l'acteur. 
 
 
-*_ne pas editer sous cette ligne remplissage automatique_*
+  *_ne pas editer sous cette ligne remplissage automatique_*
+  <hr>
 # UC  
